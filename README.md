@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 C/C++ 알고리즘 공부
+- 🌱 JPA/Spring 공부
+
 <!--
 **baek0402/baek0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
